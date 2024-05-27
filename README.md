@@ -14,7 +14,7 @@ Este é um CRUD completo de Usuário, onde se tem tanto a parte do backend em Ja
 - HTML e CSS
 - Bootstrap
 - Jquery
-# Como executar o projeto
+
 
 Pré-requisitos: Java 17
 
